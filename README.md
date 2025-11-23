@@ -1,40 +1,37 @@
 # Smart Irrigation Control System (Simulink)
 
 ## 🚀 Overview
-This project simulates an intelligent irrigation control system using MATLAB/Simulink.  
-The system adjusts watering cycles automatically based on multiple conditions and scheduling logic.
+This project implements a smart irrigation system using MATLAB/Simulink and a Stateflow-based controller.  
+The objective is to automatically manage irrigation cycles based on sensor inputs, environmental conditions, and system states.
 
-## 🧠 Features
-- Dynamic irrigation scheduling
-- Multi-zone simulation
-- Automatic water control logic
-- Parameter customization
-- Visual block-based design
+## 🧠 Key Features
+- Intelligent irrigation scheduling
+- Multi-zone control logic
+- Automatic pump management
+- Maintenance & fault handling logic
+- Simulation with configurable parameters
+- Stateflow control architecture
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies Used
 - MATLAB
 - Simulink
+- Stateflow
+
+---
 
 ## 🖼️ Simulation Model
 Below is a preview of the Simulink model:
 
-![Model](Capture d’écran 2025-11-07 175657.png)
+![Model](Capture d’écran 2025-11-15 201531.png)
 
-
-## 📈 System Diagram
-
-![Diagram](Capture d’écran 2025-11-07 175821.png)
-
-
-## 📊 Results
-![Results](Capture d’écran 2025-11-15 201531.png)
+---
 
 ## 📦 Files Included
 - `irrigation.slx`
-- Screenshots
-- Project documentation elements
+- Model screenshot
+
+---
 
 ## 👤 Author
-Mondher Khadhraoui  
+**Mondher Khadhraoui**  
 Embedded Systems Engineer
-
